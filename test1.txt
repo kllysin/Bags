@@ -1,0 +1,713 @@
+[1/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/FinishTrajectory.srv cartographer_ros_msgs/StatusResponse
+[2/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/SubmapQuery.srv geometry_msgs/Point:cartographer_ros_msgs/SubmapTexture:geometry_msgs/Quaternion:cartographer_ros_msgs/StatusResponse:geometry_msgs/Pose
+[3/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapList.msg geometry_msgs/Point:cartographer_ros_msgs/SubmapEntry:geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Pose
+[4/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/StartTrajectory.srv cartographer_ros_msgs/SensorTopics:cartographer_ros_msgs/TrajectoryOptions:cartographer_ros_msgs/StatusResponse
+[5/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SensorTopics.msg
+[6/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/TrajectoryOptions.msg
+[7/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/StatusResponse.msg
+[8/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapEntry.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[9/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/LandmarkEntry.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[10/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapTexture.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[11/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/WriteState.srv cartographer_ros_msgs/StatusResponse
+[12/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/LandmarkList.msg geometry_msgs/Point:geometry_msgs/Pose:geometry_msgs/Quaternion:std_msgs/Header:cartographer_ros_msgs/LandmarkEntry
+[13/13] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/StatusCode.msg
+[1/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/FinishTrajectory.srv cartographer_ros_msgs/StatusResponse
+[2/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/SubmapQuery.srv geometry_msgs/Point:cartographer_ros_msgs/SubmapTexture:geometry_msgs/Quaternion:cartographer_ros_msgs/StatusResponse:geometry_msgs/Pose
+[3/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapList.msg geometry_msgs/Point:cartographer_ros_msgs/SubmapEntry:geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Pose
+[4/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/StartTrajectory.srv cartographer_ros_msgs/SensorTopics:cartographer_ros_msgs/TrajectoryOptions:cartographer_ros_msgs/StatusResponse
+[5/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SensorTopics.msg
+[6/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/TrajectoryOptions.msg
+[7/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/StatusResponse.msg
+[8/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapEntry.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[9/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/LandmarkEntry.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[10/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/SubmapTexture.msg geometry_msgs/Quaternion:geometry_msgs/Point:geometry_msgs/Pose
+[11/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/srv/WriteState.srv cartographer_ros_msgs/StatusResponse
+[12/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/LandmarkList.msg geometry_msgs/Point:geometry_msgs/Pose:geometry_msgs/Quaternion:std_msgs/Header:cartographer_ros_msgs/LandmarkEntry
+[13/14] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs && /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py cartographer_ros_msgs /home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros_msgs/msg/StatusCode.msg
+[14/14] Install the project...
+-- Install configuration: ""
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/_setup_util.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/env.sh
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/setup.bash
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/setup.sh
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/setup.zsh
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/.rosinstall
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/LandmarkEntry.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/LandmarkList.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/StatusCode.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/StatusResponse.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/SubmapList.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/SubmapEntry.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/SubmapTexture.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/SensorTopics.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/msg/TrajectoryOptions.msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/srv/SubmapQuery.srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/srv/FinishTrajectory.srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/srv/StartTrajectory.srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/srv/WriteState.srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/cmake/cartographer_ros_msgs-msg-paths.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/StartTrajectory.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SensorTopics.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/LandmarkList.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/WriteStateResponse.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/FinishTrajectoryResponse.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/WriteState.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/LandmarkEntry.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapQueryResponse.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapList.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/StatusResponse.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapQueryRequest.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/StatusCode.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/StartTrajectoryRequest.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapEntry.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/FinishTrajectory.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/FinishTrajectoryRequest.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/StartTrajectoryResponse.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapTexture.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/SubmapQuery.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/WriteStateRequest.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer_ros_msgs/TrajectoryOptions.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/StartTrajectory.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/_package_SubmapQuery.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/_package_FinishTrajectory.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/_package.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/FinishTrajectory.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/SubmapQuery.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/_package_StartTrajectory.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/WriteState.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/cartographer_ros_msgs-srv.asd
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/srv/_package_WriteState.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/LandmarkList.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_StatusResponse.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/SubmapList.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/StatusResponse.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_SensorTopics.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/TrajectoryOptions.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/LandmarkEntry.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/SubmapEntry.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/cartographer_ros_msgs-msg.asd
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_TrajectoryOptions.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_SubmapTexture.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/SensorTopics.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_SubmapList.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/StatusCode.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_SubmapEntry.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/SubmapTexture.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_LandmarkEntry.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_StatusCode.lisp
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/common-lisp/ros/cartographer_ros_msgs/msg/_package_LandmarkList.lisp
+Listing /home/lead/catkin_ws_cartographer/devel_isolated/cartographer_ros_msgs/lib/python2.7/dist-packages/cartographer_ros_msgs ...
+Listing /home/lead/catkin_ws_cartographer/devel_isolated/cartographer_ros_msgs/lib/python2.7/dist-packages/cartographer_ros_msgs/msg ...
+Listing /home/lead/catkin_ws_cartographer/devel_isolated/cartographer_ros_msgs/lib/python2.7/dist-packages/cartographer_ros_msgs/srv ...
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/__init__.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/__init__.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_WriteState.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_FinishTrajectory.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_SubmapQuery.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_StartTrajectory.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_SubmapQuery.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_WriteState.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_StartTrajectory.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/_FinishTrajectory.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/srv/__init__.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapTexture.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_StatusResponse.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapList.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/__init__.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_StatusCode.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_LandmarkList.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_StatusResponse.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_StatusCode.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapList.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SensorTopics.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SensorTopics.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_LandmarkList.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_LandmarkEntry.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_LandmarkEntry.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapTexture.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapEntry.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_TrajectoryOptions.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_TrajectoryOptions.pyc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/__init__.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/msg/_SubmapEntry.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/python2.7/dist-packages/cartographer_ros_msgs/__init__.py
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/pkgconfig/cartographer_ros_msgs.pc
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/cmake/cartographer_ros_msgs-msg-extras.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/cmake/cartographer_ros_msgsConfig.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/cmake/cartographer_ros_msgsConfig-version.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer_ros_msgs/package.xml
+ninja: no work to do.
+[1/1] Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/autodiff_local_parameterization.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/rotation.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/ordered_groups.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/version.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/numeric_diff_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/ceres.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/local_parameterization.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/loss_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/problem.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/crs_matrix.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/c_api.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/gradient_problem.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/conditioned_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/numeric_diff_options.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/cost_function_to_functor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/sized_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/dynamic_cost_function_to_functor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/fpclassify.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/cubic_interpolation.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/dynamic_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/iteration_callback.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/types.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/dynamic_numeric_diff_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/dynamic_autodiff_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/covariance.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/gradient_problem_solver.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/autodiff_cost_function.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/jet.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/gradient_checker.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/solver.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/normal_prior.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/scoped_ptr.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/numeric_diff.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/eigen.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/reenable_warnings.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/autodiff.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/manual_constructor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/variadic_evaluate.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/disable_warnings.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/port.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/fixed_array.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/macros.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/ceres/internal/config.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/CeresTargets.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/CeresTargets-release.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/CeresConfig.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/CeresConfigVersion.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/FindEigen.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/FindGlog.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/cmake/Ceres/FindGflags.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/libceres.a
+[1/152] Building CXX object CMakeFiles/cartographer_autogenerate_ground_truth.dir/cartographer/ground_truth/autogenerate_ground_truth_main.cc.o
+[2/152] Building CXX object CMakeFiles/cartographer_migrate_serialization_format.dir/cartographer/io/migrate_serialization_format_main.cc.o
+[3/152] Building CXX object CMakeFiles/cartographer_compute_relations_metrics.dir/cartographer/ground_truth/compute_relations_metrics_main.cc.o
+[4/152] Building CXX object CMakeFiles/cartographer_test_library.dir/cartographer/io/fake_file_writer.cc.o
+[5/152] Building CXX object CMakeFiles/cartographer_test_library.dir/cartographer/mapping/internal/testing/test_helpers.cc.o
+[6/152] Linking CXX executable cartographer_migrate_serialization_format
+[7/152] Building CXX object CMakeFiles/cartographer_test_library.dir/cartographer/io/fake_file_writer_test.cc.o
+[8/152] Linking CXX executable cartographer_autogenerate_ground_truth
+[9/152] Linking CXX executable cartographer_compute_relations_metrics
+[10/152] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install && bash -c "find /home/lead/catkin_ws_cartographer/src/cartographer/ -not -iwholename '*.git*' | sort | sed 's/^/#/' | diff -N -q /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install/AllFiles.cmake - || find /home/lead/catkin_ws_cartographer/src/cartographer/ -not -iwholename '*.git*' | sort | sed 's/^/#/' > /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install/AllFiles.cmake"
+Files /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install/AllFiles.cmake and - differ
+sed: couldn't write 85 items to stdout: Broken pipe
+sort: fflush failed: standard output: Broken pipe
+sort: write error
+[11/152] Building documentation.
+Running Sphinx v1.2.2
+loading pickled environment... done
+building [html]: targets for 0 source files that are out of date
+updating environment: 0 added, 0 changed, 0 removed
+looking for now-outdated files... none found
+no targets are out of date.
+[12/152] Linking CXX static library libcartographer_test_library.a
+[13/152] Building CXX object CMakeFiles/cartographer.common.configuration_files_test.dir/cartographer/common/configuration_files_test.cc.o
+[14/152] Building CXX object CMakeFiles/cartographer.common.blocking_queue_test.dir/cartographer/common/blocking_queue_test.cc.o
+[15/152] Building CXX object CMakeFiles/cartographer.common.task_test.dir/cartographer/common/task_test.cc.o
+[16/152] Building CXX object CMakeFiles/cartographer.common.fixed_ratio_sampler_test.dir/cartographer/common/fixed_ratio_sampler_test.cc.o
+[17/152] Building CXX object CMakeFiles/cartographer.common.lockless_queue_test.dir/cartographer/common/lockless_queue_test.cc.o
+[18/152] Linking CXX executable cartographer.common.blocking_queue_test
+[19/152] Linking CXX executable cartographer.common.fixed_ratio_sampler_test
+[20/152] Building CXX object CMakeFiles/cartographer.common.thread_pool_test.dir/cartographer/common/thread_pool_test.cc.o
+[21/152] Building CXX object CMakeFiles/cartographer.io.internal.in_memory_proto_stream_test.dir/cartographer/io/internal/in_memory_proto_stream_test.cc.o
+[22/152] Linking CXX executable cartographer.common.configuration_files_test
+[23/152] Building CXX object CMakeFiles/cartographer.common.lua_parameter_dictionary_test.dir/cartographer/common/lua_parameter_dictionary_test.cc.o
+[24/152] Building CXX object CMakeFiles/cartographer.common.math_test.dir/cartographer/common/math_test.cc.o
+[25/152] Linking CXX executable cartographer.common.lockless_queue_test
+[26/152] Building CXX object CMakeFiles/cartographer.io.serialization_format_migration_test.dir/cartographer/io/serialization_format_migration_test.cc.o
+[27/152] Building CXX object CMakeFiles/cartographer.mapping.2d.probability_grid_test.dir/cartographer/mapping/2d/probability_grid_test.cc.o
+[28/152] Building CXX object CMakeFiles/cartographer.common.rate_timer_test.dir/cartographer/common/rate_timer_test.cc.o
+[29/152] Linking CXX executable cartographer.common.lua_parameter_dictionary_test
+[30/152] Building CXX object CMakeFiles/cartographer.common.optional_test.dir/cartographer/common/optional_test.cc.o
+[31/152] Linking CXX executable cartographer.common.math_test
+[32/152] Linking CXX executable cartographer.common.optional_test
+[33/152] Building CXX object CMakeFiles/cartographer.io.fake_file_writer_test.dir/cartographer/io/fake_file_writer_test.cc.o
+[34/152] Building CXX object CMakeFiles/cartographer.mapping.2d.range_data_inserter_2d_test.dir/cartographer/mapping/2d/range_data_inserter_2d_test.cc.o
+[35/152] Linking CXX executable cartographer.common.rate_timer_test
+[36/152] Linking CXX executable cartographer.common.task_test
+[37/152] Linking CXX executable cartographer.common.thread_pool_test
+[38/152] Building CXX object CMakeFiles/cartographer.io.points_processor_pipeline_builder_test.dir/cartographer/io/points_processor_pipeline_builder_test.cc.o
+[39/152] Building CXX object CMakeFiles/cartographer.io.proto_stream_deserializer_test.dir/cartographer/io/proto_stream_deserializer_test.cc.o
+[40/152] Linking CXX executable cartographer.io.fake_file_writer_test
+[41/152] Linking CXX executable cartographer.io.internal.in_memory_proto_stream_test
+[42/152] Building CXX object CMakeFiles/cartographer.mapping.2d.map_limits_test.dir/cartographer/mapping/2d/map_limits_test.cc.o
+[43/152] Linking CXX executable cartographer.io.points_processor_pipeline_builder_test
+[44/152] Building CXX object CMakeFiles/cartographer.io.proto_stream_test.dir/cartographer/io/proto_stream_test.cc.o
+[45/152] Linking CXX executable cartographer.io.serialization_format_migration_test
+[46/152] Linking CXX executable cartographer.io.proto_stream_deserializer_test
+[47/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.scan_matching.ceres_scan_matcher_2d_test.dir/cartographer/mapping/internal/2d/scan_matching/ceres_scan_matcher_2d_test.cc.o
+[48/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.precomputation_grid_3d_test.dir/cartographer/mapping/internal/3d/scan_matching/precomputation_grid_3d_test.cc.o
+[49/152] Linking CXX executable cartographer.mapping.2d.map_limits_test
+[50/152] Linking CXX executable cartographer.mapping.2d.probability_grid_test
+[51/152] Building CXX object CMakeFiles/cartographer.mapping.2d.submap_2d_test.dir/cartographer/mapping/2d/submap_2d_test.cc.o
+[52/152] Linking CXX executable cartographer.io.proto_stream_test
+[53/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.local_trajectory_builder_3d_test.dir/cartographer/mapping/internal/3d/local_trajectory_builder_3d_test.cc.o
+[54/152] Linking CXX executable cartographer.mapping.2d.range_data_inserter_2d_test
+[55/152] Building CXX object CMakeFiles/cartographer.mapping.id_test.dir/cartographer/mapping/id_test.cc.o
+[56/152] Building CXX object CMakeFiles/cartographer.mapping.2d.xy_index_test.dir/cartographer/mapping/2d/xy_index_test.cc.o
+[57/152] Linking CXX executable cartographer.mapping.2d.submap_2d_test
+[58/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.pose_graph_2d_test.dir/cartographer/mapping/internal/2d/pose_graph_2d_test.cc.o
+[59/152] Linking CXX executable cartographer.mapping.2d.xy_index_test
+[60/152] Building CXX object CMakeFiles/cartographer.mapping.3d.submap_3d_test.dir/cartographer/mapping/3d/submap_3d_test.cc.o
+[61/152] Building CXX object CMakeFiles/cartographer.mapping.3d.hybrid_grid_test.dir/cartographer/mapping/3d/hybrid_grid_test.cc.o
+[62/152] Building CXX object CMakeFiles/cartographer.mapping.3d.range_data_inserter_3d_test.dir/cartographer/mapping/3d/range_data_inserter_3d_test.cc.o
+[63/152] Building CXX object CMakeFiles/cartographer.mapping.internal.optimization.cost_functions.spa_cost_function_2d_test.dir/cartographer/mapping/internal/optimization/cost_functions/spa_cost_function_2d_test.cc.o
+[64/152] Linking CXX executable cartographer.mapping.3d.range_data_inserter_3d_test
+[65/152] Linking CXX executable cartographer.mapping.3d.submap_3d_test
+[66/152] Linking CXX executable cartographer.mapping.id_test
+[67/152] Building CXX object CMakeFiles/cartographer.mapping.imu_tracker_test.dir/cartographer/mapping/imu_tracker_test.cc.o
+[68/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.overlapping_submaps_trimmer_2d_test.dir/cartographer/mapping/internal/2d/overlapping_submaps_trimmer_2d_test.cc.o
+[69/152] Linking CXX executable cartographer.mapping.3d.hybrid_grid_test
+[70/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.scan_matching.correlative_scan_matcher_test.dir/cartographer/mapping/internal/2d/scan_matching/correlative_scan_matcher_test.cc.o
+[71/152] Linking CXX executable cartographer.mapping.internal.2d.pose_graph_2d_test
+[72/152] Linking CXX executable cartographer.mapping.internal.2d.scan_matching.ceres_scan_matcher_2d_test
+[73/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.pose_graph_3d_test.dir/cartographer/mapping/internal/3d/pose_graph_3d_test.cc.o
+[74/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.scan_matching.real_time_correlative_scan_matcher_2d_test.dir/cartographer/mapping/internal/2d/scan_matching/real_time_correlative_scan_matcher_2d_test.cc.o
+[75/152] Linking CXX executable cartographer.mapping.internal.2d.overlapping_submaps_trimmer_2d_test
+[76/152] Linking CXX executable cartographer.mapping.imu_tracker_test
+[77/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.interpolated_grid_test.dir/cartographer/mapping/internal/3d/scan_matching/interpolated_grid_test.cc.o
+[78/152] Linking CXX executable cartographer.mapping.internal.2d.scan_matching.correlative_scan_matcher_test
+[79/152] Building CXX object CMakeFiles/cartographer.mapping.internal.2d.scan_matching.fast_correlative_scan_matcher_2d_test.dir/cartographer/mapping/internal/2d/scan_matching/fast_correlative_scan_matcher_2d_test.cc.o
+[80/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.ceres_scan_matcher_3d_test.dir/cartographer/mapping/internal/3d/scan_matching/ceres_scan_matcher_3d_test.cc.o
+[81/152] Building CXX object CMakeFiles/cartographer.sensor.range_data_test.dir/cartographer/sensor/range_data_test.cc.o
+[82/152] Linking CXX executable cartographer.mapping.internal.2d.scan_matching.real_time_correlative_scan_matcher_2d_test
+[83/152] Linking CXX executable cartographer.mapping.internal.3d.local_trajectory_builder_3d_test
+[84/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.rotation_delta_cost_functor_3d_test.dir/cartographer/mapping/internal/3d/scan_matching/rotation_delta_cost_functor_3d_test.cc.o
+[85/152] Linking CXX executable cartographer.mapping.internal.2d.scan_matching.fast_correlative_scan_matcher_2d_test
+[86/152] Linking CXX executable cartographer.mapping.internal.3d.pose_graph_3d_test
+[87/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.fast_correlative_scan_matcher_3d_test.dir/cartographer/mapping/internal/3d/scan_matching/fast_correlative_scan_matcher_3d_test.cc.o
+[88/152] Building CXX object CMakeFiles/cartographer.mapping.internal.connected_components_test.dir/cartographer/mapping/internal/connected_components_test.cc.o
+[89/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.ceres_scan_matcher_3d_test
+[90/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.real_time_correlative_scan_matcher_3d_test.dir/cartographer/mapping/internal/3d/scan_matching/real_time_correlative_scan_matcher_3d_test.cc.o
+[91/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.interpolated_grid_test
+[92/152] Building CXX object CMakeFiles/cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_2d_test.dir/cartographer/mapping/internal/optimization/cost_functions/landmark_cost_function_2d_test.cc.o
+[93/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.precomputation_grid_3d_test
+[94/152] Building CXX object CMakeFiles/cartographer.mapping.internal.constraints.constraint_builder_2d_test.dir/cartographer/mapping/internal/constraints/constraint_builder_2d_test.cc.o
+[95/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.fast_correlative_scan_matcher_3d_test
+[96/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.rotation_delta_cost_functor_3d_test
+[97/152] Building CXX object CMakeFiles/cartographer.mapping.internal.3d.scan_matching.rotational_scan_matcher_test.dir/cartographer/mapping/internal/3d/scan_matching/rotational_scan_matcher_test.cc.o
+[98/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.real_time_correlative_scan_matcher_3d_test
+[99/152] Linking CXX executable cartographer.mapping.internal.connected_components_test
+[100/152] Building CXX object CMakeFiles/cartographer.mapping.internal.motion_filter_test.dir/cartographer/mapping/internal/motion_filter_test.cc.o
+[101/152] Building CXX object CMakeFiles/cartographer.mapping.internal.constraints.constraint_builder_3d_test.dir/cartographer/mapping/internal/constraints/constraint_builder_3d_test.cc.o
+[102/152] Linking CXX executable cartographer.mapping.internal.3d.scan_matching.rotational_scan_matcher_test
+[103/152] Building CXX object CMakeFiles/cartographer.mapping.internal.optimization.optimization_problem_3d_test.dir/cartographer/mapping/internal/optimization/optimization_problem_3d_test.cc.o
+[104/152] Linking CXX executable cartographer.mapping.internal.constraints.constraint_builder_2d_test
+[105/152] Linking CXX executable cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_2d_test
+[106/152] Building CXX object CMakeFiles/cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_3d_test.dir/cartographer/mapping/internal/optimization/cost_functions/landmark_cost_function_3d_test.cc.o
+[107/152] Linking CXX executable cartographer.mapping.internal.motion_filter_test
+[108/152] Linking CXX executable cartographer.mapping.internal.optimization.cost_functions.spa_cost_function_2d_test
+[109/152] Building CXX object CMakeFiles/cartographer.mapping.internal.trajectory_connectivity_state_test.dir/cartographer/mapping/internal/trajectory_connectivity_state_test.cc.o
+[110/152] Linking CXX executable cartographer.mapping.internal.optimization.optimization_problem_3d_test
+[111/152] Building CXX object CMakeFiles/cartographer.mapping.internal.range_data_collator_test.dir/cartographer/mapping/internal/range_data_collator_test.cc.o
+[112/152] Linking CXX executable cartographer.mapping.internal.constraints.constraint_builder_3d_test
+[113/152] Building CXX object CMakeFiles/cartographer.mapping.map_builder_test.dir/cartographer/mapping/map_builder_test.cc.o
+[114/152] Linking CXX executable cartographer.mapping.internal.trajectory_connectivity_state_test
+[115/152] Building CXX object CMakeFiles/cartographer.mapping.pose_extrapolator_test.dir/cartographer/mapping/pose_extrapolator_test.cc.o
+[116/152] Linking CXX executable cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_3d_test
+[117/152] Building CXX object CMakeFiles/cartographer.mapping.pose_graph_trimmer_test.dir/cartographer/mapping/pose_graph_trimmer_test.cc.o
+[118/152] Linking CXX executable cartographer.mapping.internal.range_data_collator_test
+[119/152] Building CXX object CMakeFiles/cartographer.mapping.pose_graph_test.dir/cartographer/mapping/pose_graph_test.cc.o
+[120/152] Linking CXX executable cartographer.mapping.map_builder_test
+[121/152] Building CXX object CMakeFiles/cartographer.mapping.probability_values_test.dir/cartographer/mapping/probability_values_test.cc.o
+[122/152] Building CXX object CMakeFiles/cartographer.transform.transform_test.dir/cartographer/transform/transform_test.cc.o
+[123/152] Linking CXX executable cartographer.mapping.pose_graph_test
+[124/152] Linking CXX executable cartographer.mapping.pose_graph_trimmer_test
+[125/152] Building CXX object CMakeFiles/cartographer.mapping.trajectory_node_test.dir/cartographer/mapping/trajectory_node_test.cc.o
+[126/152] Linking CXX executable cartographer.mapping.probability_values_test
+[127/152] Linking CXX executable cartographer.mapping.pose_extrapolator_test
+[128/152] Building CXX object CMakeFiles/cartographer.mapping.submaps_test.dir/cartographer/mapping/submaps_test.cc.o
+[129/152] Building CXX object CMakeFiles/cartographer.sensor.compressed_point_cloud_test.dir/cartographer/sensor/compressed_point_cloud_test.cc.o
+[130/152] Building CXX object CMakeFiles/cartographer.sensor.internal.ordered_multi_queue_test.dir/cartographer/sensor/internal/ordered_multi_queue_test.cc.o
+[131/152] Linking CXX executable cartographer.mapping.submaps_test
+[132/152] Building CXX object CMakeFiles/cartographer.sensor.internal.collator_test.dir/cartographer/sensor/internal/collator_test.cc.o
+[133/152] Linking CXX executable cartographer.mapping.trajectory_node_test
+[134/152] Building CXX object CMakeFiles/cartographer.sensor.internal.trajectory_collator_test.dir/cartographer/sensor/internal/trajectory_collator_test.cc.o
+[135/152] Linking CXX executable cartographer.sensor.compressed_point_cloud_test
+[136/152] Building CXX object CMakeFiles/cartographer.sensor.point_cloud_test.dir/cartographer/sensor/point_cloud_test.cc.o
+[137/152] Linking CXX executable cartographer.sensor.internal.ordered_multi_queue_test
+[138/152] Building CXX object CMakeFiles/cartographer.sensor.internal.voxel_filter_test.dir/cartographer/sensor/internal/voxel_filter_test.cc.o
+[139/152] Building CXX object CMakeFiles/cartographer.sensor.map_by_time_test.dir/cartographer/sensor/map_by_time_test.cc.o
+[140/152] Linking CXX executable cartographer.sensor.internal.collator_test
+[141/152] Building CXX object CMakeFiles/cartographer.sensor.landmark_data_test.dir/cartographer/sensor/landmark_data_test.cc.o
+[142/152] Linking CXX executable cartographer.sensor.internal.trajectory_collator_test
+[143/152] Building CXX object CMakeFiles/cartographer.transform.rigid_transform_test.dir/cartographer/transform/rigid_transform_test.cc.o
+[144/152] Linking CXX executable cartographer.sensor.internal.voxel_filter_test
+[145/152] Linking CXX executable cartographer.sensor.point_cloud_test
+[146/152] Linking CXX executable cartographer.sensor.range_data_test
+[147/152] Building CXX object CMakeFiles/cartographer.transform.transform_interpolation_buffer_test.dir/cartographer/transform/transform_interpolation_buffer_test.cc.o
+[148/152] Linking CXX executable cartographer.sensor.map_by_time_test
+[149/152] Linking CXX executable cartographer.transform.transform_test
+[150/152] Linking CXX executable cartographer.sensor.landmark_data_test
+[151/152] Linking CXX executable cartographer.transform.transform_interpolation_buffer_test
+[152/152] Linking CXX executable cartographer.transform.rigid_transform_test
+[1/1] Re-running CMake...
+-- Build type: Release
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   iostreams
+-- Found required Ceres dependency: Eigen version 3.2.0 in /usr/include/eigen3
+-- Found required Ceres dependency: glog
+-- Found required Ceres dependency: gflags
+-- Found Ceres version: 1.13.0 installed in: /home/lead/catkin_ws_cartographer/install_isolated with components: [LAPACK, SuiteSparse, SparseLinearAlgebraLibrary, CXSparse, SchurSpecializations, OpenMP]
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install
+[1/3] cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install && bash -c "find /home/lead/catkin_ws_cartographer/src/cartographer/ -not -iwholename '*.git*' | sort | sed 's/^/#/' | diff -N -q /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install/AllFiles.cmake - || find /home/lead/catkin_ws_cartographer/src/cartographer/ -not -iwholename '*.git*' | sort | sed 's/^/#/' > /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install/AllFiles.cmake"
+[2/3] Building documentation.
+Running Sphinx v1.2.2
+loading pickled environment... done
+building [html]: targets for 0 source files that are out of date
+updating environment: 0 added, 0 changed, 0 removed
+looking for now-outdated files... none found
+no targets are out of date.
+[3/3] Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer/package.xml
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/trajectory_builder_3d.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/trajectory_builder_2d.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/map_builder.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/pose_graph.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/trajectory_builder.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//configuration_files/map_builder_server.lua
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake/modules
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake/modules/FindLuaGoogle.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake/modules/FindSphinx.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake/modules/FindGMock.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer//cmake/functions.cmake
+-- Installing: /home/lead/catkin_ws_cartographer/install_isolated/bin/cartographer_autogenerate_ground_truth
+-- Installing: /home/lead/catkin_ws_cartographer/install_isolated/bin/cartographer_compute_relations_metrics
+-- Installing: /home/lead/catkin_ws_cartographer/install_isolated/bin/cartographer_migrate_serialization_format
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/lib/libcartographer.a
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/dispatchable.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/trajectory_collator.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/voxel_filter.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/ordered_multi_queue.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/collator.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/range_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/odometry_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/imu_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/fixed_frame_pose_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/point_cloud.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/landmark_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/map_by_time.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/compressed_point_cloud.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/collator_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/timed_point_cloud_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/internal/testing/thread_pool_for_testing.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/histogram.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/lua_parameter_dictionary.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/ceres_solver_options.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/configuration_file_resolver.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/rate_timer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/fixed_ratio_sampler.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/thread_pool.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/math.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/blocking_queue.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/port.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/optional.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/time.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/mutex.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/task.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/make_unique.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/lua.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/lockless_queue.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/metrics/counter.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/metrics/histogram.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/metrics/family_factory.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/metrics/gauge.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/metrics/register.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/intensity_to_color_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/points_processor_pipeline_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/probability_grid_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/image.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/internal/in_memory_proto_stream.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/internal/mapping_state_serialization.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/serialization_format_migration.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/fixed_ratio_sampling_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/draw_trajectories.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/coloring_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/file_writer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/null_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/points_batch.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/xyz_writing_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/frame_id_filtering_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/proto_stream_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/proto_stream.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/ply_writing_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/min_max_range_filtering_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/pcd_writing_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/proto_stream_deserializer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/counting_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/submap_painter.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/hybrid_grid_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/color.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/outlier_removing_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/xray_points_processor.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/timestamped_transform.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/transform_interpolation_buffer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/rigid_transform.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/transform.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/pose_graph_trimmer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/detect_floors.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/pose_extrapolator.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/trajectory_node.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/global_trajectory_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/optimization_problem_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/optimization_problem_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/landmark_cost_function_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/cost_helpers_impl.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/rotation_cost_function_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/cost_helpers.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/spa_cost_function_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/spa_cost_function_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/landmark_cost_function_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/cost_functions/acceleration_cost_function_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/optimization_problem_options.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/optimization_problem_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/optimization/ceres_pose.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/submap_controller.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/motion_filter.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/scan_matching/real_time_correlative_scan_matcher.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/collated_trajectory_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/imu_integration.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/fast_correlative_scan_matcher_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/interpolated_grid.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/rotational_scan_matcher.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/rotation_delta_cost_functor_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/ceres_scan_matcher_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/low_resolution_matcher.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/real_time_correlative_scan_matcher_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/occupied_space_cost_function_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/precomputation_grid_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/scan_matching/translation_delta_cost_functor_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/local_trajectory_builder_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/local_trajectory_builder_options_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/pose_graph_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/rotation_parameterization.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/3d/local_slam_result_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/range_data_collator.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/constraints/constraint_builder_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/constraints/constraint_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/constraints/constraint_builder_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/connected_components.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/local_trajectory_builder_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/pose_graph_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/fast_correlative_scan_matcher_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/translation_delta_cost_functor_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/rotation_delta_cost_functor_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/correlative_scan_matcher_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/occupied_space_cost_function_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/real_time_correlative_scan_matcher_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/scan_matching/ceres_scan_matcher_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/ray_casting.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/local_slam_result_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/local_trajectory_builder_options_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/2d/overlapping_submaps_trimmer_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/trajectory_connectivity_state.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/imu_tracker.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/range_data_inserter_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/map_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/trajectory_builder_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/id.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/3d/range_data_inserter_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/3d/hybrid_grid.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/3d/submap_3d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/pose_graph_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/grid_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/local_slam_result_data.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/map_builder_interface.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/probability_values.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/submaps.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/submap_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/map_limits.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/probability_grid.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/probability_grid_range_data_inserter_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/xy_index.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/2d/grid_2d.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/pose_graph.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/ground_truth/relations_text_file.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/io/fake_file_writer.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/testing/fake_trimmable.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/internal/test_helpers.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/lua_parameter_dictionary_test_helpers.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/rigid_transform_test_helpers.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/testing/test_helpers.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/testing/mock_map_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/testing/mock_pose_graph.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/internal/testing/mock_trajectory_builder.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/proto/sensor.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/sensor/proto/adaptive_voxel_filter_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/common/proto/ceres_solver_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/transform/proto/transform.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/trajectory_node_data.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/trajectory_builder_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/internal/legacy_serialized_data.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/submap_visualization.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/motion_filter_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/scan_matching/ceres_scan_matcher_options_3d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/scan_matching/ceres_scan_matcher_options_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/scan_matching/real_time_correlative_scan_matcher_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/scan_matching/fast_correlative_scan_matcher_options_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/scan_matching/fast_correlative_scan_matcher_options_3d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/3d/local_trajectory_builder_options_3d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/3d/hybrid_grid.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/3d/submaps_options_3d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/3d/range_data_inserter_options_3d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/connected_components.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/submap.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/pose_graph.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/trajectory.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/map_builder_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/probability_grid_range_data_inserter_options_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/grid_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/grid_2d_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/cell_limits.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/map_limits.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/local_trajectory_builder_options_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/submaps_options_2d.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/2d/probability_grid.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/serialization.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/pose_graph_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/pose_graph/constraint_builder_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/pose_graph/optimization_problem_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/mapping/proto/range_data_inserter_options.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/include/cartographer/ground_truth/proto/relations.pb.h
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer/cmake/CartographerTargets.cmake
+-- Installing: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer/cmake/CartographerTargets-release.cmake
+-- Up-to-date: /home/lead/catkin_ws_cartographer/install_isolated/share/cartographer/cartographer-config.cmake
+Base path: /home/lead/catkin_ws_cartographer
+Source space: /home/lead/catkin_ws_cartographer/src
+Build space: /home/lead/catkin_ws_cartographer/build_isolated
+Devel space: /home/lead/catkin_ws_cartographer/devel_isolated
+Install space: /home/lead/catkin_ws_cartographer/install_isolated
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~  traversing 5 packages in topological order:
+~~  - cartographer_ros_msgs
+~~  - ceres-solver (plain cmake)
+~~  - cartographer (plain cmake)
+~~  - cartographer_ros
+~~  - cartographer_rviz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==> Processing catkin package: 'cartographer_ros_msgs'
+build.ninja exists, skipping explicit cmake invocation...
+==> ninja build.ninja in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs'
+ninja: no work to do.
+==> ninja -j4 -l4 in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs'
+==> ninja install in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros_msgs'
+<== Finished processing package [1 of 5]: 'cartographer_ros_msgs'
+
+==> Processing plain cmake package: 'ceres-solver'
+==> Building with env: '/home/lead/catkin_ws_cartographer/install_isolated/env.sh'
+build.ninja exists, skipping explicit cmake invocation...
+==> ninja build.ninja in '/home/lead/catkin_ws_cartographer/build_isolated/ceres-solver/install'
+ninja: no work to do.
+==> ninja -j4 -l4 in '/home/lead/catkin_ws_cartographer/build_isolated/ceres-solver/install'
+==> ninja install in '/home/lead/catkin_ws_cartographer/build_isolated/ceres-solver/install'
+<== Finished processing package [2 of 5]: 'ceres-solver'
+
+==> Processing plain cmake package: 'cartographer'
+==> Building with env: '/home/lead/catkin_ws_cartographer/install_isolated/env.sh'
+build.ninja exists, skipping explicit cmake invocation...
+==> ninja build.ninja in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer/install'
+[1/1] Re-running CMake...
+-- Build type: Release
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   iostreams
+-- Found required Ceres dependency: Eigen version 3.2.0 in /usr/include/eigen3
+-- Found required Ceres dependency: glog
+-- Found required Ceres dependency: gflags
+-- Found Ceres version: 1.13.0 installed in: /home/lead/catkin_ws_cartographer/install_isolated with components: [LAPACK, SuiteSparse, SparseLinearAlgebraLibrary, CXSparse, SchurSpecializations, OpenMP]
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lead/catkin_ws_cartographer/build_isolated/cartographer/install
+ninja: no work to do.
+==> ninja -j4 -l4 in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer/install'
+==> ninja install in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer/install'
+<== Finished processing package [3 of 5]: 'cartographer'
+
+==> Processing catkin package: 'cartographer_ros'
+==> Building with env: '/home/lead/catkin_ws_cartographer/install_isolated/env.sh'
+build.ninja exists, skipping explicit cmake invocation...
+==> ninja build.ninja in '/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros'
+[1/1] Re-running CMake...
+FAILED: /usr/local/bin/cmake -H/home/lead/catkin_ws_cartographer/src/cartographer_ros/cartographer_ros -B/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros
+-- Found required Ceres dependency: Eigen version 3.2.0 in /usr/include/eigen3
+-- Found required Ceres dependency: glog
+-- Found required Ceres dependency: gflags
+-- Found Ceres version: 1.13.0 installed in: /home/lead/catkin_ws_cartographer/install_isolated with components: [LAPACK, SuiteSparse, SparseLinearAlgebraLibrary, CXSparse, SchurSpecializations, OpenMP]
+-- Build type: Release
+-- Using CATKIN_DEVEL_PREFIX: /home/lead/catkin_ws_cartographer/devel_isolated/cartographer_ros
+-- Using CMAKE_PREFIX_PATH: /home/lead/catkin_ws_cartographer/install_isolated;/home/lead/catkin_ws_tb/devel;/home/lead/catkin_ws/devel_isolated/cartographer_rviz;/home/lead/catkin_ws_lead/devel;/home/lead/LEAD/catkin_ws/devel;/home/lead/catkin_ws/install_isolated;/opt/ros/indigo
+-- This workspace overlays: /home/lead/catkin_ws_cartographer/install_isolated;/home/lead/catkin_ws_tb/devel;/home/lead/catkin_ws/devel_isolated/cartographer_rviz;/home/lead/catkin_ws_lead/devel;/home/lead/LEAD/catkin_ws/devel;/home/lead/catkin_ws/install_isolated;/opt/ros/indigo
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros/test_results
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.6.19
+-- Using these message generators: gencpp;genlisp;genpy
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+-- looking for PCL_COMMON
+CMake Error at CMakeLists.txt:51 (find_package):
+  By not providing "FindEigen3.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "Eigen3", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "Eigen3" with any
+  of the following names:
+
+    Eigen3Config.cmake
+    eigen3-config.cmake
+
+  Add the installation prefix of "Eigen3" to CMAKE_PREFIX_PATH or set
+  "Eigen3_DIR" to a directory containing one of the above files.  If "Eigen3"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros/CMakeFiles/CMakeOutput.log".
+See also "/home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros/CMakeFiles/CMakeError.log".
+ninja: error: rebuilding 'build.ninja': subcommand failed
+<== Failed to process package 'cartographer_ros': 
+  Command '['/home/lead/catkin_ws_cartographer/install_isolated/env.sh', 'ninja', 'build.ninja']' returned non-zero exit status 1
+
+Reproduce this error by running:
+==> cd /home/lead/catkin_ws_cartographer/build_isolated/cartographer_ros && /home/lead/catkin_ws_cartographer/install_isolated/env.sh ninja build.ninja
+
